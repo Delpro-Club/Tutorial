@@ -1,0 +1,62 @@
+Posisi Source : (6,6) 
+Posisi Dest : (1,0) 
+
+Langkah yang Diproses : 1
+--Posisi yang Diproses : (6,6)
+Langkah yang Diproses : 2
+--Posisi yang Diproses : (7,6)
+--Posisi yang Diproses : (5,6)
+--Posisi yang Diproses : (6,7)
+--Posisi yang Diproses : (6,5)
+Langkah yang Diproses : 3
+--Posisi yang Diproses : (7,7)
+--Posisi yang Diproses : (4,6)
+--Posisi yang Diproses : (5,7)
+--Posisi yang Diproses : (6,4)
+Langkah yang Diproses : 4
+--Posisi yang Diproses : (3,6)
+--Posisi yang Diproses : (4,7)
+--Posisi yang Diproses : (7,4)
+--Posisi yang Diproses : (5,4)
+Langkah yang Diproses : 5
+--Posisi yang Diproses : (2,6)
+--Posisi yang Diproses : (3,7)
+--Posisi yang Diproses : (7,3)
+--Posisi yang Diproses : (4,4)
+--Posisi yang Diproses : (5,3)
+Langkah yang Diproses : 6
+--Posisi yang Diproses : (2,7)
+--Posisi yang Diproses : (7,2)
+--Posisi yang Diproses : (3,4)
+--Posisi yang Diproses : (4,3)
+Langkah yang Diproses : 7
+--Posisi yang Diproses : (1,7)
+--Posisi yang Diproses : (6,2)
+--Posisi yang Diproses : (7,1)
+--Posisi yang Diproses : (2,4)
+--Posisi yang Diproses : (4,2)
+Langkah yang Diproses : 8
+--Posisi yang Diproses : (0,7)
+--Posisi yang Diproses : (7,0)
+--Posisi yang Diproses : (2,3)
+--Posisi yang Diproses : (4,1)
+Langkah yang Diproses : 9
+--Posisi yang Diproses : (0,6)
+--Posisi yang Diproses : (6,0)
+--Posisi yang Diproses : (1,3)
+--Posisi yang Diproses : (2,2)
+--Posisi yang Diproses : (3,1)
+Langkah yang Diproses : 10
+--Posisi yang Diproses : (0,5)
+--Posisi yang Diproses : (5,0)
+--Posisi yang Diproses : (0,3)
+--Posisi yang Diproses : (1,2)
+--Posisi yang Diproses : (3,0)
+Langkah yang Diproses : 11
+--Posisi yang Diproses : (1,5)
+--Posisi yang Diproses : (0,4)
+--Posisi yang Diproses : (0,2)
+--Posisi yang Diproses : (1,1)
+
+
+Langkah Minimal yang dibutuhkan : 11
