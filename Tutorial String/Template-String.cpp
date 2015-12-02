@@ -30,15 +30,6 @@ inline string GetString(void)
 
 int main()
 {
-    string kata = "makan";
-    reverse(kata.begin(), kata.end());
-
-    printf("%s\n",kata.c_str());
-
-    string angka = "12345";
-    int nilai = StringToInt(angka);
-
-    printf("Nilainya adalah : %d\n",nilai);
 
     return 0;
 }
