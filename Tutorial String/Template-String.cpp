@@ -30,6 +30,8 @@ inline string GetString(void)
 
 int main()
 {
-
+    string s=GetString();
+    string t=IntToString(StringToInt(s));
+    assert(s==t);
     return 0;
 }
